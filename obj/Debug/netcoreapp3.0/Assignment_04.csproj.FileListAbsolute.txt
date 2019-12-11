@@ -1,0 +1,11 @@
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\bin\Debug\netcoreapp3.0\Assignment_04.exe
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\bin\Debug\netcoreapp3.0\Assignment_04.deps.json
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\bin\Debug\netcoreapp3.0\Assignment_04.runtimeconfig.json
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\bin\Debug\netcoreapp3.0\Assignment_04.runtimeconfig.dev.json
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\bin\Debug\netcoreapp3.0\Assignment_04.dll
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\bin\Debug\netcoreapp3.0\Assignment_04.pdb
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\obj\Debug\netcoreapp3.0\Assignment_04.csprojAssemblyReference.cache
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\obj\Debug\netcoreapp3.0\Assignment_04.AssemblyInfoInputs.cache
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\obj\Debug\netcoreapp3.0\Assignment_04.AssemblyInfo.cs
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\obj\Debug\netcoreapp3.0\Assignment_04.dll
+C:\Users\OBAYDULLAH\source\repos\Assignment_04\Assignment_04\obj\Debug\netcoreapp3.0\Assignment_04.pdb
